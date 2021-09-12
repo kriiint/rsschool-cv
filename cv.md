@@ -23,3 +23,17 @@ next: for (let i = 2; i <= n; i++) {
   console.log(i);
 }
 ```
+## Work experience:
+
+No relevant work experience.
+
+## Education and courses:
+
+- University: Belarusian National Technical University
+  - Nuclear power plant design and maintenance
+
+## Language:
+
+Belarusian - native speaker  
+Russian - native speaker  
+English level - A2
